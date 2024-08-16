@@ -1,2 +1,2 @@
-# Exerc-cios_Python
+# Exercicios_Python
 Exercícios python feitos durante o curso de dev full stack
